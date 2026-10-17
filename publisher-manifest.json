@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6d4644a6941919f6910d2b9d",
+  "owner": "gbetgyv",
+  "repo": "page-b5b4a6655f98c9c3db26290a",
+  "title": "LEOWIKI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b5b4a6655f98c9c3db26290a",
+      "a": "LEOWIKI",
+      "b": "",
+      "entity": "LEOWIKI",
+      "brand": "LEOWIKI",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6e359ada398735dbb66e9dca754b4bbede7b6016d61abf6328ba3531a697dfb0",
+      "content": {
+        "keyword1": "LEOWIKI",
+        "keyword2": "",
+        "primary_entity": "LEOWIKI",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "LEOWIKI 提供基础版、旗舰版和团队版VPN套餐，包括流量管理、设备连接和线路优化，帮助用户实现稳定高效的网络连接。",
+          "AI_DESCRIPTION": "LEOWIKI 提供基础版、旗舰版和团队版VPN套餐，包括流量管理、设备连接和线路优化，帮助用户实现稳定高效的网络连接。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        500;700&amp;display=swap');\n        body {margin: 0;padding: 0;background: #0a0a0a;color: #e0e0e0;font-family: 'Noto Sans SC', system-ui, -apple-system, sans-serif;line-height: 1.6}\n        h1 {color: #39ff14;font-size: 3.2rem;text-align: center;margin: 0 0 1rem}\n        h2 {color: #39ff14;font-size: 1.8rem;text-align: center;margin-bottom: 2rem}\n        nav {background: rgba(10, 10, 10, 0.95);padding: 1rem 0;position: sticky;top: 0;z-index: 100;border-bottom: 1px solid #222}\n        nav ul {list-style: none;display: flex;justify-content: center;gap: 2.5rem;padding: 0;margin: 0}\n        nav a {color: #39ff14;text-decoration: none;font-weight: 500;transition: color 0.3s}\n        nav a:hover {color: #7fff3f}\n        .hero {background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);padding: 5rem 1rem 4rem;text-align: center;position: relative}\n        .hero-content {max-width: 1200px;margin: 0 auto}\n        .hero-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 1.5rem;max-width: 900px;margin: 3rem auto 0;padding: 0 1rem}\n        .hero-col {background: #1a1a1a;padding: 1.75rem;border-radius: 8px;box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6)}\n        .hero-col h3 {color: #39ff14;margin-top: 0;font-size: 1.35rem}\n        .plans {max-width: 1200px;margin: 0 auto;padding: 3rem 1rem}\n        .plans-table {width: 100%;border-collapse: collapse;background: #1a1a1a;border-radius: 8px;overflow: hidden}\n        .plans-table th, .plans-table td {padding: 1rem 0.75rem;text-align: left;border-bottom: 1px solid #333}\n        .plans-table th {background: #111;color: #39ff14;font-weight: 500}\n        .plans-table tr:nth-child(even) {background: #151515}\n        .featured {background: #222 !important;font-weight: 500}\n        .faq {background: #111;padding: 4rem 1rem}\n        .faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));gap: 2rem;max-width: 1100px;margin: 0 auto}\n        details {margin-bottom: 1.25rem;background: #1a1a1a;border-radius: 6px;padding: 1rem;box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5)}\n        summary {font-size: 1.15rem;color: #39ff14;font-weight: 500;cursor: pointer;list-style: none;padding: 0.5rem 0}\n        summary::-webkit-details-marker {display: none}\n        footer {background: #000;padding: 2rem;text-align: center;color: #555;font-size: 0.95rem}\n        @media (max-width: 768px) {\n            nav ul {flex-direction: column;gap: 1rem}\n            h1 {font-size: 2.6rem}\n            .hero-grid {grid-template-columns: 1fr;gap: 1rem}\n            .faq-grid {grid-template-columns: 1fr}\n        }\n    </style><nav>\n        <ul>\n            <li><a href=\"#hero\">首页</a></li>\n            <li><a href=\"#plans\">套餐</a></li>\n            <li><a href=\"#faq\">FAQ</a></li>\n        </ul>\n    </nav>\n    <header id=\"hero\" class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>LEOWIKI</h1>\n            <p>探索稳定可靠的网络连接解决方案</p>\n            <div class=\"hero-grid\">\n                <div class=\"hero-col\">\n                    <h3>流量管理</h3>\n                    <p>根据您的使用需求选择合适流量套餐</p>\n                </div>\n                <div class=\"hero-col\">\n                    <h3>设备连接</h3>\n                    <p>支持多台设备同时在线</p>\n                </div>\n                <div class=\"hero-col\">\n                    <h3>线路优化</h3>\n                    <p>提供高速节点池与专线选择</p>\n                </div>\n            </div>\n        </div>\n    </header>\n    <section id=\"plans\" class=\"plans\">\n        <h2>套餐选择</h2>\n        <table class=\"plans-table\">\n            <thead>\n                <tr>\n                    <th></th>\n                    <th class=\"featured\">旗舰版</th>\n                    <th>基础版</th>\n                    <th>团队版</th>\n                </tr>\n            </thead>\n            <tbody>\n                <tr>\n                    <td>每月流量</td>\n                    <td>300GB</td>\n                    <td>100GB</td>\n                    <td>1000GB</td>\n                </tr>\n                <tr>\n                    <td>同时在线设备</td>\n                    <td>5台</td>\n                    <td>3台</td>\n                    <td>20台</td>\n                </tr>\n                <tr>\n                    <td>流媒体解锁</td>\n                    <td>全节点原生流媒体</td>\n                    <td>基础流媒体</td>\n                    <td>VIP专属高带宽节点</td>\n                </tr>\n                <tr>\n                    <td>线路类型</td>\n                    <td>IPLC专线优化</td>\n                    <td>普通线路节点池</td>\n                    <td>企业定制路由</td>\n                </tr>\n                <tr>\n                    <td>月付价格</td>\n                    <td>¥35/月</td>\n                    <td>¥15/月</td>\n                    <td>¥85/月</td>\n                </tr>\n                <tr>\n                    <td>年付价格</td>\n                    <td>¥350/年</td>\n                    <td>¥150/年</td>\n                    <td>¥850/年</td>\n                </tr>\n            </tbody>\n        </table>\n    </section>\n    <section id=\"faq\" class=\"faq\">\n        <h2>常见问题</h2>\n        <div class=\"faq-grid\">\n            <div>\n                <details>\n                    <summary>如何选择LEOWIKI套餐？</summary>\n                    <p>根据您的流量需求和设备数量选择基础版、旗舰版或团队版套餐。</p>\n                </details>\n                <details>\n                    <summary>旗舰版套餐有哪些特点？</summary>\n                    <p>旗舰版提供300GB流量，支持5台设备，同时解锁全节点原生流媒体，并通过IPLC专线进行游戏加速优化，同时提供7x24优先工单支持。</p>\n                </details>\n            </div>\n            <div>\n                <details>\n                    <summary>团队版的优势是什么？</summary>\n                    <p>团队版支持1000GB流量，20台设备同时在线，并提供VIP专属高带宽节点、企业定制路由以及专属客户经理服务。</p>\n                </details>\n                <details>\n                    <summary>年付选项如何节省成本？</summary>\n                    <p>按年付可降低整体费用，基础版年付仅需¥150。</p>\n                </details>\n            </div>\n        </div>\n    </section>\n    <footer>\n        <p>© 2024 LEOWIKI. 保留所有权利。</p>\n    </footer></main>",
+          "hash": "cf268fad824ae72bbadc7d6741833fbc837d6a91cef85787b0307942e266f896",
+          "seo": {
+            "title": "LEOWIKI | 稳定网络连接服务",
+            "keywords": "LEOWIKI, VPN服务, 高速流量, 套餐选择, 网络连接",
+            "description": "LEOWIKI 提供基础版、旗舰版和团队版VPN套餐，包括流量管理、设备连接和线路优化，帮助用户实现稳定高效的网络连接。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "1290",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "loeqciu.cn",
+    "host": "p-014d31b7a4.loeqciu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6765dab56c4c078462a12d3c5e7d2e883d535e045e1591c13276159825f60812",
+    "sitemap.xml": "05c04dbd2f0d51952c498bc60669732b8e22bd426111b924e6aed01e9db7c013",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ce8bf46bc564208f552f354fb3c2faae957f020194654e00883f9a4ddb0d025d",
+    "robots.txt": "aa085c2fa9135cbfd2540e0982109355b675dc35eff83dbc2b845f1830e917a0",
+    "9ddfa40ecb47edc420bd45163ad4f7b7.txt": "05a1e0816af09cff8bfd790c49dbca3492e83e4fc33cc1a98579ebd268b384b0"
+  },
+  "revision": "ffce14a2e907f953713db31f0986ee0db674c8438df55d6fd9be26c7964cb848"
+}
